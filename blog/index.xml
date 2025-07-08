@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Universal</title>
-    <link>http://localhost:1313/hugo-site/blog/</link>
+    <link>https://zhuqianqq.github.io/hugo-site/blog/</link>
     <description>Recent content in Blog on Universal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jul 2025 09:56:31 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-site/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhuqianqq.github.io/hugo-site/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Third</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/08/third/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/08/third/</link>
       <pubDate>Tue, 08 Jul 2025 09:56:31 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/08/third/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/08/third/</guid>
       <description>&lt;h1 id=&#34;kevin-测试&#34;&gt;kevin 测试&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;这是一篇测试文章&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;div class=&#34;custom-container&#34;&gt;&#xA;  &lt;h2&gt;HTML 区块&lt;/h2&gt;&#xA;  &lt;p&gt;这里可以使用任意 HTML 语法&lt;/p&gt;&#xA;  &lt;button onclick=&#34;alert(&#39;Hello Hugo&#39;)&#34;&gt;点击测试&lt;/button&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/07/my-second-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/07/my-second-post/</link>
       <pubDate>Mon, 07 Jul 2025 11:34:10 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/07/my-second-post/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/07/my-second-post/</guid>
       <description>&lt;div class=&#34;custom-container&#34;&gt;&#xA;  &lt;h2&gt;HTML 区块&lt;/h2&gt;&#xA;  &lt;p&gt;这里可以使用任意 HTML 语法&lt;/p&gt;&#xA;  &lt;button onclick=&#34;alert(&#39;Hello Hugo&#39;)&#34;&gt;点击测试&lt;/button&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/05/my-first-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/05/my-first-post/</link>
       <pubDate>Sat, 05 Jul 2025 15:28:05 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/05/my-first-post/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/05/my-first-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Categories Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2021/08/01/categories-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2021/08/01/categories-post/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2021/08/01/categories-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

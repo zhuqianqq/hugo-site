@@ -2,52 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Universal</title>
-    <link>http://localhost:1313/hugo-site/</link>
+    <link>https://zhuqianqq.github.io/hugo-site/</link>
     <description>Recent content on Universal</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jul 2025 09:56:31 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 10:47:38 +0800</lastBuildDate>
+    <atom:link href="https://zhuqianqq.github.io/hugo-site/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fourth</title>
+      <link>https://zhuqianqq.github.io/hugo-site/fourth/</link>
+      <pubDate>Tue, 08 Jul 2025 10:47:38 +0800</pubDate>
+      <guid>https://zhuqianqq.github.io/hugo-site/fourth/</guid>
+      <description>&lt;h1 id=&#34;kevin-测试&#34;&gt;kevin 测试&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;这是一篇测试文章&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;div class=&#34;custom-container&#34;&gt;&#xA;  &lt;h2&gt;HTML 区块&lt;/h2&gt;&#xA;  &lt;p&gt;这里可以使用任意 HTML 语法&lt;/p&gt;&#xA;  &lt;button onclick=&#34;alert(&#39;Hello Hugo&#39;)&#34;&gt;点击测试&lt;/button&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Third</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/08/third/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/08/third/</link>
       <pubDate>Tue, 08 Jul 2025 09:56:31 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/08/third/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/08/third/</guid>
       <description>&lt;h1 id=&#34;kevin-测试&#34;&gt;kevin 测试&lt;/h1&gt;&#xA;&lt;pre&gt;&lt;code&gt;这是一篇测试文章&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;div class=&#34;custom-container&#34;&gt;&#xA;  &lt;h2&gt;HTML 区块&lt;/h2&gt;&#xA;  &lt;p&gt;这里可以使用任意 HTML 语法&lt;/p&gt;&#xA;  &lt;button onclick=&#34;alert(&#39;Hello Hugo&#39;)&#34;&gt;点击测试&lt;/button&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>My Second Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/07/my-second-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/07/my-second-post/</link>
       <pubDate>Mon, 07 Jul 2025 11:34:10 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/07/my-second-post/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/07/my-second-post/</guid>
       <description>&lt;div class=&#34;custom-container&#34;&gt;&#xA;  &lt;h2&gt;HTML 区块&lt;/h2&gt;&#xA;  &lt;p&gt;这里可以使用任意 HTML 语法&lt;/p&gt;&#xA;  &lt;button onclick=&#34;alert(&#39;Hello Hugo&#39;)&#34;&gt;点击测试&lt;/button&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2025/07/05/my-first-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2025/07/05/my-first-post/</link>
       <pubDate>Sat, 05 Jul 2025 15:28:05 +0800</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2025/07/05/my-first-post/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2025/07/05/my-first-post/</guid>
       <description></description>
     </item>
     <item>
       <title>Categories Post</title>
-      <link>http://localhost:1313/hugo-site/blog/2021/08/01/categories-post/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/blog/2021/08/01/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/hugo-site/blog/2021/08/01/categories-post/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xD;&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
+      <guid>https://zhuqianqq.github.io/hugo-site/blog/2021/08/01/categories-post/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a post with multiple categories in the frontmatter:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/hugo-site/contact/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-site/contact/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/contact/</guid>
       <description>&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;&#xA;&lt;p&gt;Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.&lt;/p&gt;&#xA;&lt;p&gt;Please feel free to contact us, our customer service center is working for you 24/7.&lt;/p&gt;</description>
     </item>
     <item>
       <title>FAQ</title>
-      <link>http://localhost:1313/hugo-site/faq/</link>
+      <link>https://zhuqianqq.github.io/hugo-site/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-site/faq/</guid>
+      <guid>https://zhuqianqq.github.io/hugo-site/faq/</guid>
       <description>&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-what-to-do-if-i-have-still-not-received-the-order&#34;&gt;1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?&lt;/h2&gt;&#xA;&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.&lt;/p&gt;</description>
     </item>
   </channel>
